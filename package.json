@@ -1,0 +1,24 @@
+{
+  "name": "spotify-app",
+  "version": "1.0.0",
+  "description": "yer",
+  "main": "test.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guy-Norkunas/SpotifyApp.git"
+  },
+  "author": "guy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guy-Norkunas/SpotifyApp/issues"
+  },
+  "homepage": "https://github.com/Guy-Norkunas/SpotifyApp#readme"
+}
